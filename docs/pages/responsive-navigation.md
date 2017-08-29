@@ -317,6 +317,10 @@ If we reference the above example, `.title-bar` is our mobile element and `.top-
   .no-js .title-bar {
     display: none;
   }
+  
+   .no-js .top-bar-right{
+      display: none;
+  } ### if you have any in top-bar
 }
 ```
 
